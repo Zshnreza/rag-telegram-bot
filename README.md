@@ -41,3 +41,8 @@ python app.py
 📌 Example Output
 
 Work hours are 9 AM to 6 PM.
+
+
+## 📸 Demo Screenshot
+
+![Demo](assets/demo.jpeg)
